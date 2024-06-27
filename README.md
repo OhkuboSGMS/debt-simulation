@@ -4,7 +4,7 @@ rustの練習
 # TODO List
 
 - [x] CLIの作成
-- [ ] 引数を設計
+- [x] 引数を設計
 - [ ] exe（実行）ファイルの作り方
 - [ ] distributionの仕方
 - [] 計算の中身を作成
