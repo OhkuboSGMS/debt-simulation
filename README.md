@@ -6,6 +6,7 @@ rustの練習
 - [x] CLIの作成
 - [x] 引数を設計
 - [x] exe（実行）ファイルの作り方
+  - [x] [build.md](doc/build.md)
 - [ ] distributionの仕方
 - [] 計算の中身を作成
 - [] 構造化
