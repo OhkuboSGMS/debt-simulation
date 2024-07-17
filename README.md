@@ -9,6 +9,7 @@ rustの練習
   - [x] [build.md](doc/build.md)
 - [x] distributionの仕方
   - [x] Windowsのinstallerを作る
+  - [x] [distribute.md](doc/distribute.md)
 - [] 計算の中身を作成
 - [] 構造化
 - [ ] (optional) 計算並列化
